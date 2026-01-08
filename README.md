@@ -44,3 +44,9 @@ The algorithm guarantees **optimal solutions** when the heuristic is admissible.
 
 ```python
 distance += abs(x1 - x2) + abs(y1 - y2)
+
+
+## ▶️ How to Run
+
+```bash
+python game.py
